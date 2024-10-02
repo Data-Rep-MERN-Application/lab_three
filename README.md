@@ -186,4 +186,3 @@ Each movie item should be displayed as a card with the movie title as the header
 
 ---
 
-This more detailed explanation adds a better understanding of how props facilitate communication between components and how `useEffect()` helps manage side effects in functional components.

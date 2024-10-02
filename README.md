@@ -185,4 +185,20 @@ Enhance the `MovieItem` component by using [React Bootstrap Cards](https://react
 Each movie item should be displayed as a card with the movie title as the header, the poster image in the body, and the year at the footer.
 
 ---
+### Summary of Learning
 
+By completing these exercises, students should have gained the following knowledge and skills related to React:
+
+1. **Understanding and Utilizing Props**: 
+   - You have learned how to pass data between components using props, a core concept in React. This includes how to render data dynamically and handle child-to-parent communication.
+
+2. **Component Creation and Modularity**: 
+   - You have created reusable function components (`Read`, `Create`, and `MovieItem`), helping you understand the modular design principles of React.
+
+3. **Rendering Data from JSON**:
+   - You practiced rendering data dynamically from a JSON object within your `Read` component, gaining insight into handling and displaying API responses or local data.
+
+4. **State Management and Side Effects**:
+   - You were introduced to the `useEffect` hook, learning how to manage side effects in function components, such as fetching or updating data when certain props change.
+
+By solving these problems, you’ve gained foundational knowledge in React that will help you build more complex and dynamic web applications in the future.

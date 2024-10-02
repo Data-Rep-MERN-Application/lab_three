@@ -179,7 +179,7 @@ In this example, every time the `mymovie` prop changes (which happens when new m
 
 ## Exercise 3: Adding Bootstrap Cards
 
-Enhance the `MovieItem` component by using [React Bootstrap Cards](https://react-bootstrap.github.io/components/cards/). You can follow the card structure from the official React Bootstrap documentation.
+Enhance the `MovieItem` component by using [React Bootstrap Cards](https://react-bootstrap.github.io/docs/components/cards). You can follow the card structure from the official React Bootstrap documentation.
 
 **Expected Output:**  
 Each movie item should be displayed as a card with the movie title as the header, the poster image in the body, and the year at the footer.
